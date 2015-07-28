@@ -36,3 +36,4 @@ server/.bundle/
 server/vendor/
 server/Gemfile.lock
 
+dist
